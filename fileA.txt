@@ -1,1 +1,2 @@
 Checking the progress of GIT
+simpyt need to chnage chnages in git
